@@ -1,7 +1,7 @@
 #!/usr/bin/python
 # By Arup Ghosh (17th Dec 2016)
 # Problem : https://www.codechef.com/problems/ANKTRAIN
-# Ubmission URL: https://www.codechef.com/viewsolution/12290380
+# Submission URL: https://www.codechef.com/viewsolution/12290380
 t = int(input())
 ber = ["LB","MB","UB","LB","MB","UB","SL","SU"]
 for i in range(t):
